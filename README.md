@@ -43,12 +43,6 @@ Given the **4-year payback** and the positive cash flow starting early in Year 5
 
 ---
 
-## 📂 Project Files
-1.  **[Financial Model (Excel)](./Solar_Financial_Model_Logistics.xlsx):** Detailed 25-year cash flow, ROI analysis, and dynamic dashboard.
-2.  **[Design Report](./Solar_Model_Makro_Cartagena.pdf):** Full technical export from HelioScope including irradiance maps and loss diagrams.
-
----
-
 ## 📸 Visuals
 
 ### Financial Performance Dashboard
